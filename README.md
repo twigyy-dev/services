@@ -1,14 +1,13 @@
-SaaSBold is a **full-stack SaaS boilerplate** for Next.js - crafted with great attention to both front-end and back-end functionality. Developer experience has been a key focus, comes with all the essential integrations features with a one-click deployment option on Vercel.
+Services@Twigyy is a part of Twiggy Ecommerce LLP to provide **web and software solutions** - crafted with great attention to both front-end and back-end functionality. Customer experience has been a key focus, comes with all the essential integrations and on demand features with a one-click payment option and **24x7 support**.
 
-![saasbold](https://github.com/SaaSBold/saasbold-lite/assets/1244883/6ff1e518-d448-4a9a-a609-fc9a67959d94)
+![twigyy](https://github.com/SaaSBold/saasbold-lite/assets/1244883/6ff1e518-d448-4a9a-a609-fc9a67959d94)
 
-#### [🚀 Live Demo](https://demo.saasbold.com/)
 #### [📘 Documentation](https://docs.saasbold.com/)
 #### [☕ Website](https://saasbold.com/)
 #### [🔥 Pricing and FAQ](https://saasbold.com/#pricing)
 
 
-## SaaSBold Features and Integrations ⚡
+## Services@Twigyy Features and Integrations ⚡
 ![integrations](https://github.com/SaaSBold/saasbold-lite/assets/1244883/4c89006b-892d-4b78-9576-93daa6ca3696)
 
 ### 💳 Payments and Subscriptions
